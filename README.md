@@ -8,11 +8,11 @@ cohensKappa.m will generate all the results showed in the paper and also the cha
 
 Please if you use the datasets and the codes (including the toolboxes) refer them properly.
 
-# Datasets
+## Datasets
 
 To get access to the dataset please go to the next [repository](https://github.com/DavidJimenezS/GBF-CD/tree/master/Data) to download them.
 
-# Rquirements
+## Rquirements
 
 In order to run the code, you will need the following toolboxes:
 
