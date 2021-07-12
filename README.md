@@ -12,7 +12,7 @@ Please if you use the datasets and the codes (including the toolboxes) refer the
 
 To get access to the dataset please go to the next [repository](https://github.com/DavidJimenezS/GBF-CD/tree/master/Data) to download them.
 
-## Rquirements
+## Requirements
 
 In order to run the code, you will need the following toolboxes:
 
