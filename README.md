@@ -16,6 +16,6 @@ To get access to the dataset please go to the next [repository](https://github.c
 
 In order to run the code, you will need the following toolboxes:
 
-* Graph analysis [toolbox](leogrady.net/software/) for graph cut segmentation 
+* Graph analysis [toolbox](http://leogrady.net/software/) for graph cut segmentation 
 * Graph signal processing [toolbox](https://epfl-lts2.github.io/gspbox-html) for graph smoothness prior. 
 * Blue-Noise sampling [toolbox](https://github.com/jhonygiraldo/Blue-Noise-Sampling-on-Graphs) for graph cut segmentation.
