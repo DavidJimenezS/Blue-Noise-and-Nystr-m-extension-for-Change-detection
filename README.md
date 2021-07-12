@@ -1,5 +1,5 @@
 # Blue-Noise-and-Nystrom-extension-for-Change-detection
-Graph based changed detection approach presented at IGARSS 2021
+Here you will find the code use for the paper "BLUE NOISE SAMPLING AND NYSTRÖM EXTENSION FOR GRAPH BASED CHANGE DETECTION" presented at IGARSS 2021
 
 Here you will find all the code used to generate the change maps in fourteen cases of study.
 
