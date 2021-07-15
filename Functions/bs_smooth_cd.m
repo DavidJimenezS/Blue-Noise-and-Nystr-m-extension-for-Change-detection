@@ -168,7 +168,7 @@ figure
 imshow(Xl{1},[]);
 hold on
 plot(centroids(idx,2),centroids(idx,1),'rx', 'LineWidth', 2)
-draw now
+drawnow
 
 clearvars -except locations centroids Xl n_dataset stop datasets samples n_sampl ...
     rows cols ksmooth gt sampling_pattern kappas ZAA b kmin k_cont biaoji
