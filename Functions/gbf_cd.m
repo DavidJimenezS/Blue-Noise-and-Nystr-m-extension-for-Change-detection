@@ -102,7 +102,6 @@ for j = 1 : n
     AB = Iaux(n+1:end);
     Iaux(locations) = A;
     Iaux(complement) = AB;
-    Iaux = ((reshape(Iaux,rows,cols)));
     
     Iaux = imbinarize(abs(Iaux));
     
@@ -110,7 +109,7 @@ for j = 1 : n
     %     title(['Eigenvector sample ' , num2str(i) ])
     %     set(gca,'FontSize',12)
     
-    MI(j) =  mi(prior,Iaux);
+    MI(j) =  mutInfo(prior(:),Iaux);
     clear Iaux A AB;
 end
 
