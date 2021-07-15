@@ -3,7 +3,10 @@ close all
 clc
 %%
 
-addpath(genpath(strcat(pwd,'\Functions\'))); %Please add to the path or in this folder 
+addpath(genpath(strcat(pwd,'\Functions\'))); %Please add to the path or in this folder the toolboxes
+%addpath(genpath('The path where the Graph analysis toolbox is'));
+%addpath(genpath('The path where the Graph signal processing toolbox is'));
+%addpath(genpath('The path where the Blue-Noise sampling toolbox is'));
 
 %--------------------Available datasets-----------------------
 %   sardania_dataset
